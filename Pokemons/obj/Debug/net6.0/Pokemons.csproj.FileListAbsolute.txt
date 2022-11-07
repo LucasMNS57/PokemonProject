@@ -1,0 +1,15 @@
+/Users/lucasgremese/Projects/Pokemons/Pokemons/obj/Debug/net6.0/Pokemons.csproj.AssemblyReference.cache
+/Users/lucasgremese/Projects/Pokemons/Pokemons/obj/Debug/net6.0/Pokemons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasgremese/Projects/Pokemons/Pokemons/obj/Debug/net6.0/Pokemons.AssemblyInfoInputs.cache
+/Users/lucasgremese/Projects/Pokemons/Pokemons/obj/Debug/net6.0/Pokemons.AssemblyInfo.cs
+/Users/lucasgremese/Projects/Pokemons/Pokemons/obj/Debug/net6.0/Pokemons.csproj.CoreCompileInputs.cache
+/Users/lucasgremese/Projects/Pokemons/Pokemons/bin/Debug/net6.0/Pokemons
+/Users/lucasgremese/Projects/Pokemons/Pokemons/bin/Debug/net6.0/Pokemons.deps.json
+/Users/lucasgremese/Projects/Pokemons/Pokemons/bin/Debug/net6.0/Pokemons.runtimeconfig.json
+/Users/lucasgremese/Projects/Pokemons/Pokemons/bin/Debug/net6.0/Pokemons.dll
+/Users/lucasgremese/Projects/Pokemons/Pokemons/bin/Debug/net6.0/Pokemons.pdb
+/Users/lucasgremese/Projects/Pokemons/Pokemons/obj/Debug/net6.0/Pokemons.dll
+/Users/lucasgremese/Projects/Pokemons/Pokemons/obj/Debug/net6.0/refint/Pokemons.dll
+/Users/lucasgremese/Projects/Pokemons/Pokemons/obj/Debug/net6.0/Pokemons.pdb
+/Users/lucasgremese/Projects/Pokemons/Pokemons/obj/Debug/net6.0/Pokemons.genruntimeconfig.cache
+/Users/lucasgremese/Projects/Pokemons/Pokemons/obj/Debug/net6.0/ref/Pokemons.dll
